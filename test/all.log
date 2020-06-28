@@ -1,0 +1,5 @@
+2020-06-04 13:04:45,114 - E:/GitHub/Recommend/test/log_test.py[line:38] - DEBUG: debug
+2020-06-04 13:04:45,115 - E:/GitHub/Recommend/test/log_test.py[line:39] - INFO: info
+2020-06-04 13:04:45,115 - E:/GitHub/Recommend/test/log_test.py[line:40] - WARNING: 警告
+2020-06-04 13:04:45,115 - E:/GitHub/Recommend/test/log_test.py[line:41] - ERROR: 报错
+2020-06-04 13:04:45,115 - E:/GitHub/Recommend/test/log_test.py[line:42] - CRITICAL: 严重
